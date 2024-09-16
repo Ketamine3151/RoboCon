@@ -1,15 +1,11 @@
-# RosieCon2023Sem2
-RosieCon Capstone 2023 Semester 2
+# RoboCon 2024 Semester 2
 
-Mentor: Professor James Harland
-Client: Dr Ian Peake
+This is a cloned repo of RosieCon2023 by Jasper.
 
-Team Members:
-- Jasper Avice Demay
-- Selamawit Tewelde Birhane
-- Allister Jon Toos
-- Jiarui YaoJiarui Yao
-- Adem Saydam
+Original Repo: ``` https://github.com/JasperAviceDemay/RosieCon2023Sem2 ```
+
+Mentor: Dr Ian Peake
+Client: Professor James Harland
 
 ### Front-End
 Front-End adapted from the [Chats-With-Rosie project](https://github.com/Chats-With-Rosie/rosie-front-end)
